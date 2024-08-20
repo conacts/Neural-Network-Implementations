@@ -1,5 +1,7 @@
 # Neural Network Implementations
+I took a deep learning class in college and these were some of the hws.
 
+(This was written by OG ChatGPT)
 This repository contains separate implementations of neural network models using PyTorch. Each implementation focuses on a different topic or task. The following is a brief description of each tutorial:
 
 ## GAN with MNIST Dataset
